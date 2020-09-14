@@ -1,0 +1,16 @@
+:root {
+  --main_bg: #F3F7FA;
+  --widget_bg: #fff;
+  --widget_border_rad: 5px;
+  --widget_padding: 20px;
+  --primary_text: #4A4A4A;
+  --secondary_text: #A0B0B9;
+  --brand_blue: #2196F3;
+
+  --transfers-filter-unchecked: #9ABBCE;
+  --transfers-filter-hover: #F1FCFF;
+
+  --price-filter-fz: 12px;
+  --price-filter_border: #DFE5EC;
+  --price-filter_bg: #FFF;
+}
